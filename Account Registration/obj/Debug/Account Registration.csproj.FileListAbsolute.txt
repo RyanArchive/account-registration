@@ -1,0 +1,22 @@
+C:\Users\Acer\source\repos\Account Registration\Account Registration\bin\Debug\Account Registration.exe.config
+C:\Users\Acer\source\repos\Account Registration\Account Registration\bin\Debug\Account Registration.exe
+C:\Users\Acer\source\repos\Account Registration\Account Registration\bin\Debug\Account Registration.pdb
+C:\Users\Acer\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Account Registration\Account Registration\obj\Debug\Account_Registration.FrmRegistration.resources
+C:\Users\Acer\source\repos\Account Registration\Account Registration\obj\Debug\Account_Registration.FrmConfirm.resources
+C:\Users\Acer\source\repos\Account Registration\Account Registration\obj\Debug\Account_Registration.Properties.Resources.resources
+C:\Users\Acer\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.exe
+C:\Users\Acer\source\repos\Account Registration\Account Registration\obj\Debug\Account Registration.pdb
+C:\Users\Acer\Documents\Portfolio-backup\Desktop Application\Visual Studio\Account Registration\Account Registration\bin\Debug\Account Registration.exe.config
+C:\Users\Acer\Documents\Portfolio-backup\Desktop Application\Visual Studio\Account Registration\Account Registration\bin\Debug\Account Registration.exe
+C:\Users\Acer\Documents\Portfolio-backup\Desktop Application\Visual Studio\Account Registration\Account Registration\bin\Debug\Account Registration.pdb
+C:\Users\Acer\Documents\Portfolio-backup\Desktop Application\Visual Studio\Account Registration\Account Registration\obj\Debug\Account Registration.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Portfolio-backup\Desktop Application\Visual Studio\Account Registration\Account Registration\obj\Debug\Account_Registration.FrmRegistration.resources
+C:\Users\Acer\Documents\Portfolio-backup\Desktop Application\Visual Studio\Account Registration\Account Registration\obj\Debug\Account_Registration.FrmConfirm.resources
+C:\Users\Acer\Documents\Portfolio-backup\Desktop Application\Visual Studio\Account Registration\Account Registration\obj\Debug\Account_Registration.Properties.Resources.resources
+C:\Users\Acer\Documents\Portfolio-backup\Desktop Application\Visual Studio\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Portfolio-backup\Desktop Application\Visual Studio\Account Registration\Account Registration\obj\Debug\Account Registration.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Portfolio-backup\Desktop Application\Visual Studio\Account Registration\Account Registration\obj\Debug\Account Registration.exe
+C:\Users\Acer\Documents\Portfolio-backup\Desktop Application\Visual Studio\Account Registration\Account Registration\obj\Debug\Account Registration.pdb
